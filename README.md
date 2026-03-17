@@ -2,6 +2,7 @@
 Several jupyter notebook file for solving differential equation with PINN.
 
 If you find this notebook or the associated research useful for your work, please cite it as follows:
+
 @article{adi2025optimal,
 	title={Optimal control of interactions between invasive alien and native species in a certain time period with the r-PINN approach},
 	author={Adi, Yudi Ari and Pratama, Danang A and Bakar, Maharani A and Surono, Sugiyarto and Budiantoro, Agung and others},
