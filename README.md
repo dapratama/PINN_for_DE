@@ -2,8 +2,8 @@
 Several jupyter notebook file for solving differential equation with PINN.
 
 If you find this notebook or the associated research useful for your work, please cite it as follows:
-
-```@article{adi2025optimal,
+```
+@article{adi2025optimal,
 	title={Optimal control of interactions between invasive alien and native species in a certain time period with the r-PINN approach},
 	author={Adi, Yudi Ari and Pratama, Danang A and Bakar, Maharani A and Surono, Sugiyarto and Budiantoro, Agung and others},
 	journal={Results in Control and Optimization},
@@ -23,9 +23,11 @@ If you find this notebook or the associated research useful for your work, pleas
   year={2025},
   publisher={Elsevier}
 }
+```
 
 You may also refer to this specific study in your work using the following reference:
-```@article{ding2012optimal,
+```
+@article{ding2012optimal,
 	title={Optimal control applied to native-invasive species competition via a PDE model},
 	author={Ding, Wandi and Hrynkiv, Volodymyr and Mu, Xiaoyu},
 	journal={Electronic Journal of Differential Equations},
@@ -35,7 +37,7 @@ You may also refer to this specific study in your work using the following refer
 	year={2012}
 }
 
-```@article{raissi2019physics,
+@article{raissi2019physics,
 	title={Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations},
 	author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E},
 	journal={Journal of Computational Physics},
@@ -45,3 +47,4 @@ You may also refer to this specific study in your work using the following refer
 	publisher={Elsevier},
 	doi={10.1016/j.jcp.2018.10.045}
 }
+```
