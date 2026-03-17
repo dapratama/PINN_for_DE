@@ -3,7 +3,7 @@ Several jupyter notebook file for solving differential equation with PINN.
 
 If you find this notebook or the associated research useful for your work, please cite it as follows:
 
-@article{adi2025optimal,
+```@article{adi2025optimal,
 	title={Optimal control of interactions between invasive alien and native species in a certain time period with the r-PINN approach},
 	author={Adi, Yudi Ari and Pratama, Danang A and Bakar, Maharani A and Surono, Sugiyarto and Budiantoro, Agung and others},
 	journal={Results in Control and Optimization},
@@ -14,7 +14,7 @@ If you find this notebook or the associated research useful for your work, pleas
 	doi={10.1016/j.rico.2025.100557}
 }
 
-@article{pratama2025embedded,
+```@article{pratama2025embedded,
   title={Embedded legendre expansion layer of physics-informed neural network with restarting strategy in solving partial differential equation in fluid dynamics},
   author={Pratama, Danang A and Bakar, Maharani A and Idris, Ruwaidiah and Mohamed, Norizan},
   journal={Results in Engineering},
@@ -25,7 +25,7 @@ If you find this notebook or the associated research useful for your work, pleas
 }
 
 You may also refer to this specific study in your work using the following reference:
-@article{ding2012optimal,
+```@article{ding2012optimal,
 	title={Optimal control applied to native-invasive species competition via a PDE model},
 	author={Ding, Wandi and Hrynkiv, Volodymyr and Mu, Xiaoyu},
 	journal={Electronic Journal of Differential Equations},
@@ -35,7 +35,7 @@ You may also refer to this specific study in your work using the following refer
 	year={2012}
 }
 
-@article{raissi2019physics,
+```@article{raissi2019physics,
 	title={Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations},
 	author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E},
 	journal={Journal of Computational Physics},
