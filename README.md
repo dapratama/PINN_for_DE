@@ -14,7 +14,7 @@ If you find this notebook or the associated research useful for your work, pleas
 	doi={10.1016/j.rico.2025.100557}
 }
 
-```@article{pratama2025embedded,
+@article{pratama2025embedded,
   title={Embedded legendre expansion layer of physics-informed neural network with restarting strategy in solving partial differential equation in fluid dynamics},
   author={Pratama, Danang A and Bakar, Maharani A and Idris, Ruwaidiah and Mohamed, Norizan},
   journal={Results in Engineering},
